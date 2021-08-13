@@ -4,7 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-	adding harry, hermoine, ron
+	adding harry2, hermoine, ron
 
 # THANKS
 
