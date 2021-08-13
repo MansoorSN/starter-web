@@ -4,8 +4,8 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-	adding harry2, hermoine, ron
-	voldemort.
+	adding harry, hermoine, ron
+	dumbledore.
 
 # THANKS
 
