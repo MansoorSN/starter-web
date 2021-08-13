@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
 	adding harry2, hermoine, ron
+	voldemort.
 
 # THANKS
 
