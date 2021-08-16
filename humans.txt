@@ -6,7 +6,8 @@
     <name> -- <role> -- <twitter>
 	adding harry, hermoine, ron
 	dumbledore.
-
+	snape.
+	
 
 	more members to be added.
 # THANKS
